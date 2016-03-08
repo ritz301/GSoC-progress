@@ -1,8 +1,15 @@
-# Open soft
-Open Soft is an application based programming competition held every year for the general championship at IIT Kharagpur in which teams from different halls compete on a given problem statement. For more information refer here: https://wiki.metakgp.org/w/Open_Soft
+Django-project
+==============
+Project management with tasks, milestones, follow and activity-stream
 
-Clone the repository with
+**Milestone**
 
-```
-git clone --recursive https://github.com/ritz301/opensoft
-```
+User drawn strokes are saved as a vector graphic serialized to JSON, with an assetID+transcoder options for the displayed asset preview, so the drawing can be recreated by any client with the least amount of data transfer or storage. The annotations is stored with a OneToOne-relationship to the comment.
+
+**Work progress**
+- "User drawn strokes are saved as a vector graphic serialized to JSON" - completed
+  http://ritz301.net23.net/test.html
+
+**Next task**
+
+Link comments and annotation.
