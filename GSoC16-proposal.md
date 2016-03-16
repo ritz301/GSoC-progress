@@ -41,11 +41,7 @@ I know how to use Git and Github. If I am stuck, I go to Google and always come 
 
 ……
 
-##The Plan   
-
-…………..
-
-##Prototype
+##The Plan
 
 My work can be divided into three phases.
 
