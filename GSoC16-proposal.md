@@ -46,13 +46,19 @@ I know how to use Git and Github. If I am stuck, I go to Google and always come 
 My work can be divided into three phases.
 
 #### Phase 1: Designing the User Interface
-The structure of the UI will have 2 main sections:
+The structure of the UI will have 3 main sections:
 * **Displayed Asset annotation preview**
 
  This section will enable the user to draw strokes over a chosen background image which will be linked in a    OneToOne-relationship to a comment.
 
-* Comments section
+* **Comments section**
 
+ This will be a forum-like-structure where each comment is linked to an annotation which will be displayed on the annotation section when the user selects it. 
+
+* **Options section**
+
+ This section will contain a list of actions the user can perform upon selecting a comment. 
+ 
 #### Phase 2: Designing the REST API with Django
 
 #### Phase 3: Integration of the UI and the API
