@@ -49,7 +49,7 @@ I know how to use Git and Github. If I am stuck, I go to Google and always come 
 
 My work can be divided into three phases.
 
-### Phase 1: Designing the interface for the user
+### Phase 1: Designing the User Interface
 
 ### Phase 2: Designing the REST API with Django
 
