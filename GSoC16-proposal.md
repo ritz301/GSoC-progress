@@ -49,5 +49,5 @@ My work can be divided into three phases.
 
 ### Phase 2: Designing the REST API with Django
 
-### Phase 3: Integration of UI and API
+### Phase 3: Integration of the UI and the API
 
