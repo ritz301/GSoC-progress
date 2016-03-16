@@ -34,3 +34,24 @@ I'm very much interested in web development and work as a Sub Head , Web team of
 * HTML5, CSS, CSS3, JSON, REST, MySQL, PHP, Django, JS, jQuery, Ajax, Bootstrap & Materialize frameworks. 
 
 I know how to use Git and Github. If I am stuck, I go to Google and always come back with a solution.
+
+#The Project  
+ 
+##The Problem and Motivation	   
+
+……
+
+##The Plan   
+
+…………..
+
+##Prototype
+
+My work can be divided into three phases.
+
+### Phase 1: Designing the interface for the user
+
+### Phase 2: Designing the REST API with Django
+
+### Phase 3: Integration of UI and API
+
