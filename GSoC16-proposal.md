@@ -31,7 +31,6 @@ I use Ubuntu 14.04 LTS on my workstation and Sublime text as primary text editor
 Since I started programming as a web developer, I used Django all the time which made me familiar with Python in the beginning. 
 
 I'm very much interested in web development and work as a Sub Head , Web team of our college and thus have a good idea of basic elements of web designing, namely:
-
-HTML5, CSS, CSS3, JSON, REST, MySQL, PHP, Django, JS, jQuery, Ajax, Bootstrap & Materialize frameworks. 
+* HTML5, CSS, CSS3, JSON, REST, MySQL, PHP, Django, JS, jQuery, Ajax, Bootstrap & Materialize frameworks. 
 
 I know how to use Git and Github. If I am stuck, I go to Google and always come back with a solution.
