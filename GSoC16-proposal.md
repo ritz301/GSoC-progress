@@ -46,6 +46,9 @@ I know how to use Git and Github. If I am stuck, I go to Google and always come 
 My work can be divided into three phases.
 
 #### Phase 1: Designing the User Interface
+The basic structure of the UI will have 2 sections:
+* Displayed Asset preview
+* Comments section
 
 #### Phase 2: Designing the REST API with Django
 
