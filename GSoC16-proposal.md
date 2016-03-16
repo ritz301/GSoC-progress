@@ -47,7 +47,8 @@ My work can be divided into three phases.
 
 #### Phase 1: Designing the User Interface
 The basic structure of the UI will have 2 sections:
-* Displayed Asset preview
+* Displayed Asset annotation preview
+  This section will enable the user to draw strokes over a chosen background image which will be linked in a   OneToOne-relationship to a comment.
 * Comments section
 
 #### Phase 2: Designing the REST API with Django
